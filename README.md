@@ -32,6 +32,7 @@ Mouse-clicker 是一个简单的鼠标点击工具，用于自动化鼠标点击
    python mouse-clicker.py
    ```
 2. 根据提示选择点击模式和参数
+
 ![鼠标点击器.jpg](doc/%E9%BC%A0%E6%A0%87%E7%82%B9%E5%87%BB%E5%99%A8.jpg)
 
 
